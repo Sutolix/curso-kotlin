@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MainTest" tests="4" skipped="2" failures="0" errors="0" timestamp="2023-01-03T17:01:19" hostname="LOTUS" time="0.038">
+  <properties/>
+  <testcase name="Metodo ainda nao implementado" classname="MainTest" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase name="Teste metodo xxoo" classname="MainTest" time="0.029"/>
+  <testcase name="assumption()" classname="MainTest" time="0.003">
+    <skipped/>
+  </testcase>
+  <testcase name="exception()" classname="MainTest" time="0.004"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
